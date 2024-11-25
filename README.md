@@ -1,8 +1,8 @@
 ## Olá! eu sou a Marianny Cascardo
 
-- 🔭 Trabalho com Dart e Flutter...
-- 🌱 Estudando Dart ...
-- 😄 Pronome: ela/dela ...
+- 🔭 Trabalho com Dart e Flutter
+- 🌱 Estudando Dart 
+- 😄 Pronome: ela/dela 
 
 <div>
   <a href-"https://github.com/Mariannycascardo">
