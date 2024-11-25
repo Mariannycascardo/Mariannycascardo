@@ -21,6 +21,6 @@ Estas são as principais tecnologias que estudo e utilizo em meu dia a dia:
 
 *Programming Languages*
 
-<img src="https://github.com/user-attachments/assets/a9352d69-4d68-454c-98c4-1763d114459c" alt="Flutter" title="Spring" width="40px"/>
+<img src="https://github.com/user-attachments/assets/a9352d69-4d68-454c-98c4-1763d114459c" alt="Flutter" title="Flutter" width="40px"/>
 
-<img src="https://github.com/user-attachments/assets/5b633ea3-f248-42c6-a60d-689b699ac5ea" alt="Dart" title="Spring" width="40px"/>
+<img src="https://github.com/user-attachments/assets/5b633ea3-f248-42c6-a60d-689b699ac5ea" alt="Dart" title="Dart" width="40px"/>
