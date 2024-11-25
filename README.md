@@ -6,8 +6,8 @@
 
 <div>
   <a href-"https://github.com/Mariannycascardo">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Mariannycascardo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"L>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mariannycascardo&langs_count=16&theme=dracula"L>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Mariannycascardo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"L>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mariannycascardo&langs_count=16&theme=tokyonight"L>
 </div>
 
 <h1> olá como vai? <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
