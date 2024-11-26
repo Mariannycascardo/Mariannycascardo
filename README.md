@@ -6,7 +6,7 @@
 
 ## Qual é a sua profissão? 👩‍💻
 
-Atuo na área de programação, desenvolvendo aplicações com Flutter e Dart. Atualmente trabalho como Full Stack, mas meu objetivo é focar exclusivamente no desenvolvimento Back-End.
+- Atuo na área de programação, desenvolvendo aplicações com Flutter e Dart. Atualmente trabalho como Full Stack, mas meu objetivo é focar exclusivamente no desenvolvimento Back-End.
 
 ## Conjunto de habilidades: 🚀
 
