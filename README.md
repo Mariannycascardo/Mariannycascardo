@@ -1,4 +1,4 @@
-# Olá! eu sou a Marianny Cascardo <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+# Olá! eu sou a Marianny Grandini <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 - 🔭 Trabalho com Dart e Flutter
 - 🌱 Estudando Dart 
