@@ -6,8 +6,7 @@
 
 ## Qual é a sua profissão? 👩‍💻
 
-- Atuo no desenvolvimento de aplicações móveis, utilizando Flutter e Dart, com foco na criação de interfaces intuitivas e modernas, além de otimizar o desempenho das soluções para oferecer a melhor experiência ao usuário.
-
+Atuo na área de programação, desenvolvendo aplicações com Flutter e Dart. Atualmente trabalho como Full Stack, mas meu objetivo é focar exclusivamente no desenvolvimento Back-End.
 
 ## Conjunto de habilidades: 🚀
 
@@ -18,8 +17,6 @@
 
 <img src="https://github.com/user-attachments/assets/5b633ea3-f248-42c6-a60d-689b699ac5ea" alt="Dart" title="Dart" width="40px"/>
 <img src="https://github.com/user-attachments/assets/a9352d69-4d68-454c-98c4-1763d114459c" alt="Flutter" title="Flutter" width="40px"/>
-
-## Onde você pode me encontrar? 🌐
 
 <div>
   <a href-"https://github.com/Mariannycascardo">
